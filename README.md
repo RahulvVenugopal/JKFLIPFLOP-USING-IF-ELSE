@@ -1,4 +1,6 @@
-# JKFLIPFLOP-USING-IF-ELSE
+# EXP NO:7 JKFLIPFLOP
+## Name: Rahul V
+## Reg no:212223040163
 
 **AIM:** 
 
