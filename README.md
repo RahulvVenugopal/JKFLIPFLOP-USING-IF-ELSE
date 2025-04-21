@@ -59,5 +59,6 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![Screenshot 2025-04-21 102922](https://github.com/user-attachments/assets/9796cec6-2deb-4dac-9da3-d89fb508cc7d)
 
-**RESULTS**
+**RESULT**
+
 JK flipflop using verilog and validating their functionality using their functional tables are verified.
